@@ -1,4 +1,4 @@
-name             's3_file_test'
+name             's3_file'
 maintainer       'test'
 maintainer_email 'bm@yahoo.co.in'
 license          'MIT'
